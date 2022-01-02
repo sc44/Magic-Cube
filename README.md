@@ -1,6 +1,6 @@
 # Magic Cube
 
-### A game of Rubik's magic cube.
+### A game of Rubik's magic cube. (Zauberwürfel)
 
 ![alt text](https://github.com/sc44/Magic-Cube/blob/main/screenshot.png)
 
